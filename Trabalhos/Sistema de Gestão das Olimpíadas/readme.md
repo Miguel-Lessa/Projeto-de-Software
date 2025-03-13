@@ -6,9 +6,10 @@ Este projeto foi desenvolvido para a matéria de Projetos de Software, do curso 
 
 ## Diagrama de casos de uso
 
-| <img src="Trabalhos/Sistema de Gestão das Olimpíadas/casoDeUso.png" alt="use case"/> |
+| <img src="Trabalhos/Sistema%20de%20Gestão%20das%20Olimpíadas/casoDeUso.png" alt="use case" width="600"/> |
 |:---------------------:|
-| Diagrama de casos de uso |
+| **Diagrama de Casos de Uso** |
+
 
 ## Diagrama de classes 
 | <img src="Trabalhos/Sistema de Gestão das Olimpíadas/diagramaClassesPacotes.png" alt="use case"/> |
