@@ -6,23 +6,23 @@ Este projeto foi desenvolvido para a matéria de Projetos de Software, do curso 
 
 ## Diagrama de casos de uso
 
-| <img src="Trabalhos/Sistema%20de%20Gestão%20das%20Olimpíadas/casoDeUso.png" alt="use case" width="600"/> |
+|<img src="https://raw.githubusercontent.com/Miguel-Lessa/Projeto-De-Software/main/Trabalhos/Sistema%20de%20Gestão%20das%20Olimpíadas/casoDeUso.png" alt="use case"/>|
 |:---------------------:|
 | **Diagrama de Casos de Uso** |
 
 
 ## Diagrama de classes 
-| <img src="Trabalhos/Sistema de Gestão das Olimpíadas/diagramaClassesPacotes.png" alt="use case"/> |
+| <img src="https://raw.githubusercontent.com/Miguel-Lessa/Projeto-De-Software/main/Trabalhos/Sistema%20de%20Gestão%20das%20Olimpíadas/diagramaClassesPacotes.png" alt="use case"/> |
 |:---------------------:|
 | Diagrama de classes |
 
 ## Diagrama de componentes 
-| <img src="Trabalhos/Sistema de Gestão das Olimpíadas/diagramaComponentes.png" alt="use case"/> |
+| <img src="https://raw.githubusercontent.com/Miguel-Lessa/Projeto-De-Software/main/Trabalhos/Sistema%20de%20Gestão%20das%20Olimpíadas/diagramaComponentes.png" alt="use case"/> |
 |:---------------------:|
 | Diagrama de componentes |
 
 ## Diagrama de implantação
-| <img src="Trabalhos/Sistema de Gestão das Olimpíadas/diagramaImplantacao.png" alt="use case"/> |
+| <img src="https://raw.githubusercontent.com/Miguel-Lessa/Projeto-De-Software/main/Trabalhos/Sistema%20de%20Gestão%20das%20Olimpíadas/diagramaImplantacao.png" alt="use case"/> |
 |:---------------------:|
 | Diagrama de componentes |
 
